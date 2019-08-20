@@ -6,7 +6,7 @@
       <h2 class="subtitle">Em construção ...</h2>
       <div class="links">
         <a
-          href="https://lnkd.in/eJAqGKb/"
+          href="https://github.com/unicariocati/"
           target="_blank"
           class="button--green"
           >GitHub
